@@ -1,4 +1,4 @@
-# Arduino Obstacle Avoidance Game
+# Endless Car Escape
 
 A real-time embedded systems project featuring an interactive game implemented on an Arduino Uno microcontroller using concurrent state machine task scheduling.
 
