@@ -39,7 +39,6 @@ This is a game where you control a car sprite on a 16x2 LCD display to dodge inc
 ├── src/
 │   └── rvill101_Finalproject.cpp    # Main source code
 ├── include/                          # Header files
-├── lib/                              # PlatformIO libraries
 ├── platformio.ini                    # Build configuration
 ├── Project Report Read Me.pdf        # Detailed technical report
 └── README.md                         # This file
