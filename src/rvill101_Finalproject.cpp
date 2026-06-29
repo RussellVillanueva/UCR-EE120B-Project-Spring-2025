@@ -537,7 +537,7 @@ int gameTick(int state) {
 				score = 0;
 				carY = 1;
 				isJumping = 0;
-				obstacleX = 15;
+				ostacleX = 15;
                 revving = false;
                 usedRev = false;
 				state = gameRUNNING;
@@ -733,5 +733,3 @@ int revTick(int state) {
 
     return state;
 }
-
-
